@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1686944034 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cola.h"
+	"Pila.h"
+	"Cliente.h"
+	"Menu.h"
+	"Lista.h"
+	"Producto.h"
+
+1686941157 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\cola.h
+
+1686799022 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\pila.h
+
+1686944204 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"Cola.h"
+	"Cliente.h"
+
+1686799138 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Pila.h"
+
+1686943142 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"Menu.h"
+	"Cliente.h"
+	"Lista.h"
+	"Producto.h"
+	"Cola.h"
+
+1686937898 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\menu.h
+	"Lista.h"
+	"Cliente.h"
+	"Pila.h"
+	"Cola.h"
+
+1686358261 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"Cliente.h"
+
+1686358210 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\cliente.h
+
+1686246743 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1686689256 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\lista.h
+
+1686943249 source:d:\codeprojectos\codeblock\ignaciocruz41581415-2023\producto.c
+	<stdio.h>
+	<stdlib.h>
+	"Producto.h"
+
+1686689938 d:\codeprojectos\codeblock\ignaciocruz41581415-2023\producto.h
+
